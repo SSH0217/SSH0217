@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @SSH0217
 - 👀 I’m interested in game programming
-- 🌱 I’m currently looking for a job..
-- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
   email : saqaz9657@naver.com
 <!---
