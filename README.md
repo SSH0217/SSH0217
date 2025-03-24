@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SSH0217
-- 👀 I’m interested in game programming
+- 👀 I’m interested in VR, Game programming with Unity
 - 📫 How to reach me ...
   email : saqaz9657@naver.com
 <!---
